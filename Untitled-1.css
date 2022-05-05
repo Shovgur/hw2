@@ -1,0 +1,7 @@
+.text{
+   margin-right: 1000px;
+   background-color: greenyellow;
+   padding: 30px;
+   outline: 2px solid #fff;
+   outline-offset: -20px;
+}
